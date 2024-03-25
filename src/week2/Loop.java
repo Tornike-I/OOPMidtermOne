@@ -1,4 +1,4 @@
-package Week2;
+package week2;
 public class Loop {
     public static void main(String[] args) {
         int a = 12;

@@ -1,4 +1,4 @@
-package Week2.Quiz.tornike_kadeishvili_1;
+package week2.Quiz.tornike_kadeishvili_1;
 
 
 /**
@@ -9,5 +9,6 @@ package Week2.Quiz.tornike_kadeishvili_1;
 public class Assignment03 {
     public static void main(String[] args) {
         System.out.println("tornike_kadeishvili_1/camera/watch/violin");
+
     }
 }

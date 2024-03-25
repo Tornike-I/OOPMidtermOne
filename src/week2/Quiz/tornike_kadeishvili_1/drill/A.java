@@ -1,4 +1,4 @@
-package Week2.Quiz.tornike_kadeishvili_1.drill;
+package week2.Quiz.tornike_kadeishvili_1.drill;
 
 public class A {
     public static void main(String[] args) {
