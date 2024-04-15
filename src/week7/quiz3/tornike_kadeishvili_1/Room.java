@@ -12,11 +12,11 @@ class Room {
 
     public void checkIn(String occupantId) {
         this.occupantId = occupantId;
-        System.out.println("Occupant " + occupantId + " checked in to room " + roomNumber);
+        //System.out.println("Occupant " + occupantId + " checked in to room " + roomNumber);
     }
 
     public void checkOut() {
-        System.out.println("Occupant " + occupantId + " checked out from room " + roomNumber);
+        //System.out.println("Occupant " + occupantId + " checked out from room " + roomNumber);
         this.occupantId = null;
     }
 
