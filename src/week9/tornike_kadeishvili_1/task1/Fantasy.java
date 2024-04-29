@@ -3,13 +3,14 @@ package week9.tornike_kadeishvili_1.task1;
 import java.util.List;
 public class Fantasy extends AbstractFantasy implements Dream {
     // TODO change studentName to your name
-    private String studentName = "Tornike Kadeishvili";
+    private String TornikeKadeishvili;
 
     // TODO must be implemented
     @Override
     public String toString() {
-        return "Fantasy by " + studentName;
+        return "Fantasy by " + TornikeKadeishvili;
     }
+
     @Override
     public String getScratch1() {
         return "Some scratchy fantasy detail";
